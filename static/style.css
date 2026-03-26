@@ -1,0 +1,33 @@
+.sample-buttons {
+    margin-top: 10px;
+}
+
+.sample-buttons button {
+    margin: 5px;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.features {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.feature-box {
+    background: #1f2a44;
+    padding: 15px;
+    border-radius: 10px;
+    width: 30%;
+    text-align: center;
+}
+
+.result {
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 10px;
+    background: #2c1f2f;
+    color: #ff6b6b;
+}
