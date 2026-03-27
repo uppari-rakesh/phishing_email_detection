@@ -35,5 +35,5 @@ for _ in range(300):
     draw.ellipse([x - radius, y - radius, x + radius, y + radius], fill=color)
 
 # Save the image
-img.save('static/images/cyber_background.png')
+img.save('../static/images/bg.png')
 print("Background image generated successfully!")
